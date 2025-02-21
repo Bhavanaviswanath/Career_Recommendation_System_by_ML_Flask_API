@@ -52,8 +52,3 @@ Make sure you have the following installed:
 - **Database Support**: Switch to SQL/NoSQL for scalability.
 - **Real-Time Job Market Analysis**: Offer popular career trends.
 
-## Contributing
-Contributions are welcome! Please submit issues or pull requests.
-
-## License
-This project is licensed under the MIT License.
