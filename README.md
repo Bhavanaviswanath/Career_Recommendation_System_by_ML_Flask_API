@@ -1,7 +1,5 @@
 # Career_Recommendation_System_by_ML_Flask_API
 
-# Career Recommendation System
-
 ## Overview
 The **Career Recommendation System** is a web-based AI application with the purpose of helping students and professionals make good career choices. It offers personal career recommendations in accordance with education and interests and career roadmaps for each option.
 
