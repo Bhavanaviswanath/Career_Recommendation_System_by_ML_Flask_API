@@ -1,23 +1,23 @@
 # Career_Recommendation_System_by_ML_Flask_API
 
-## Overview
+## 🚀Overview
 The **Career Recommendation System** is a web-based AI application with the purpose of helping students and professionals make good career choices. It offers personal career recommendations in accordance with education and interests and career roadmaps for each option.
 
-## Key Features
+## 🚀Key Features
 - **Dynamic Career Paths**: Helps users discover available career paths on the basis of their level of education.
 - **Personalized Roadmaps**: Offers step-by-step advice on different career options.
 - **Interactive UI**: Easy-to-use interface for choosing education levels and subcategories.
 - **Fast and Efficient**: Developed with Flask for smooth backend functions.
 - **Scalable JSON-Based Database**: Simple to extend for inclusion of more career options and roadmaps.
 
-## Novelty
+## 🚀Novelty
 In contrast to conventional career guidance instruments, this system:
 - **Utilizes a structured dataset** to create career roadmaps dynamically.
 - **Provides real-time suggestions** based on user selection.
 - **Promotes skill-based learning** by incorporating vocational courses.
 - **Offers roadmap visualization** for enhanced understanding of career advancement.
 
-## Installation & Setup
+## 🚀Installation & Setup
 ### Prerequisites
 Make sure you have the following installed:
 - Python 3+
@@ -37,18 +37,21 @@ Make sure you have the following installed:
    ```
 5. Open a web browser and navigate to `http://127.0.0.1:5000/`.
 
-## File Structure
+## 🚀File Structure
 - **app.py**: Flask-based backend logic.
 - **career_data.json**: JSON file with career options and roadmaps.
 - **index.html**: Frontend UI for system interaction.
 
-## Usage
+## 🚀Usage
 1. Choose your education level from the dropdown list.
 2. Select a relevant subcategory.
 3. See the suggested career roadmap.
 
-## Future Enhancements
+## 🚀Future Enhancements
 - **Machine Learning Integration**: Make predictions of careers based on skills and interests.
 - **Database Support**: Switch to SQL/NoSQL for scalability.
 - **Real-Time Job Market Analysis**: Offer popular career trends.
 
+## ✍️ Author
+
+**Natuva Bhavana:natuvabhavana@gmail.com**  
