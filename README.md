@@ -44,11 +44,12 @@ Make sure you have the following installed:
 
 ##  Sample Output Pictures
 
-![image](https://github.com/GudepuRakshitha/Career-Recommendation-System-by-using-ML-flask-API/blob/359848a4b8537363f7929422b823888bb21c317e/Screenshot%202025-02-19%20220548.png)
+![CRS 1](https://raw.githubusercontent.com/Bhavanaviswanath/Career_Recommendation_System_by_ML_Flask_API/0a8b23662f2082e853d05d09c7050545317b1522/CRS1.png)
 
-![image](https://github.com/GudepuRakshitha/Career-Recommendation-System-by-using-ML-flask-API/blob/359848a4b8537363f7929422b823888bb21c317e/Screenshot%202025-02-19%20220630.png)
+![CRS 2](https://raw.githubusercontent.com/Bhavanaviswanath/Career_Recommendation_System_by_ML_Flask_API/0a8b23662f2082e853d05d09c7050545317b1522/CRS2.png)
 
-![image](https://github.com/GudepuRakshitha/Career-Recommendation-System-by-using-ML-flask-API/blob/359848a4b8537363f7929422b823888bb21c317e/Screenshot%202025-02-19%20220842.png)
+![CRS 3](https://raw.githubusercontent.com/Bhavanaviswanath/Career_Recommendation_System_by_ML_Flask_API/0a8b23662f2082e853d05d09c7050545317b1522/CRS3.png)
+
 
 ## Usage
 1. Choose your education level from the dropdown list.
