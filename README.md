@@ -1,4 +1,4 @@
-# Career-Recommendation-System-by-using-ML-flask-API
+# Career-Recommendation-System-by-using-ML-FlaskAPI
 
 ## Overview
 The *Career Recommendation System* is a web-based AI application with the purpose of helping students and professionals make good career choices. It offers personal career recommendations in accordance with education and interests and career roadmaps for each option.
